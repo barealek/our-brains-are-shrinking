@@ -1,2 +1,3 @@
 our brains are shrinking...
 
+![shrinking](https://github.com/barealek/our-brains-are-shrinking/blob/main/images/actually-shrinking.png?raw=true)
